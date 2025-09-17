@@ -22,8 +22,8 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 ![](./images/screenshot_mobile.png)
 
 ## Links
-- Solution: [View solution](https://your-solution-url.com)
-- Live site: [View live site](https://your-live-site-url.com)
+- Solution: [View solution](https://github.com/ichane31/QR-code-component)
+- Live site: [View live site](https://qr-code-component-three-ashen.vercel.app/)
 
 
 
